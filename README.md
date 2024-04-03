@@ -1,15 +1,34 @@
 # Algorithm-Friday
 介绍算法的各方面进展与使用心得
 
-**[Top 100 Stars](Top-100-stars.md)**
-[Github Ranking](./README.md)
+**[Top 100 Stars](Top100/Top-100-stars.md)**
 ==========
 
 **A list of the most github stars and forks repositories.**
 
 ## Table of Contents
+ * [Most Stars](#most-stars)
  * [LLM](#LLM)
  * [chatGPT](#chatGPT)
+
+## Most Stars
+
+This is top 10, for more click **[Top 100 Stars](Top100/Top-100-stars.md)**
+
+| Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
+| ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
+| 1 | [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 385800 | 35050 | TypeScript | 273 | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. | 2024-04-01T19:22:44Z |
+| 2 | [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 317185 | 59536 | None | 28 | :books: Freely available programming books | 2024-04-01T19:49:53Z |
+| 3 | [awesome](https://github.com/sindresorhus/awesome) | 296465 | 26671 | None | 23 | 😎 Awesome lists about all kinds of interesting topics | 2024-03-25T17:16:16Z |
+| 4 | [public-apis](https://github.com/public-apis/public-apis) | 288545 | 31434 | Python | 2 | A collective list of free APIs | 2024-03-27T18:43:04Z |
+| 5 | [coding-interview-university](https://github.com/jwasham/coding-interview-university) | 280735 | 72096 | None | 45 | A complete computer science study plan to become a software engineer. | 2024-04-01T15:14:04Z |
+| 6 | [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | 271081 | 36598 | TypeScript | 795 | Interactive roadmaps, guides and other educational content to help developers grow in their careers. | 2024-04-02T02:31:22Z |
+| 7 | [996.ICU](https://github.com/996icu/996.ICU) | 268923 | 21273 | None | 0 | Repo for counting stars and contributing. Press F to pay respect to glorious developers. | 2024-03-01T07:34:01Z |
+| 8 | [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 252900 | 24013 | None | 180 | Master programming by recreating your favorite technologies from scratch. | 2024-04-01T03:40:36Z |
+| 9 | [system-design-primer](https://github.com/donnemartin/system-design-primer) | 250195 | 42896 | Python | 198 | Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. | 2024-03-12T03:11:27Z |
+| 10 | [react](https://github.com/facebook/react) | 220864 | 45123 | JavaScript | 1184 | The library for web and native user interfaces. | 2024-04-02T00:04:18Z |
+
+
 
 ## LLM
 
