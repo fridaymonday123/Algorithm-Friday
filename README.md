@@ -1,10 +1,7 @@
 # Algorithm-Friday
 介绍算法的各方面进展与使用心得
-
-**[Top 100 Stars](Top100/Top-100-stars.md)**
-==========
-
-**A list of the most github stars and forks repositories.**
+=====================
+**(1)A list of the most github stars and forks repositories.**
 
 ## Table of Contents
  * [Most Stars](#most-stars)
